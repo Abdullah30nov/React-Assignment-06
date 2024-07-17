@@ -1,0 +1,21 @@
+.main_div{
+    display: flex;
+    align-items: center;
+    padding-left: 0px !important;
+    
+}
+.main_div h3{
+    margin-right: 10px;
+    font-weight: 500;
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+    transition: all 0.7s ;
+}
+.main_div h3:hover{
+    color: red;
+}
+.main_div li{
+    font-weight: 500;
+    font-size: 25px;
+    width: 100px;
+}
